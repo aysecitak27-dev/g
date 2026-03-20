@@ -1,0 +1,5 @@
+selenium
+playwright
+undetected-chromedriver
+flask
+flask-cors
